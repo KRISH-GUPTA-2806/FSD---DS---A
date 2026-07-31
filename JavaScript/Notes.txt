@@ -1,0 +1,11 @@
+what is a script? and what is a scripting language ?
+
+=> additional embedded language that can not run independently, it requires another language to run with
+
+
+NOTE: log means Iteration (normally it has no use as it is specifically for development)
+
+Ways to Print in JS:
+    1. console.log(" ") => writes in developer tool's console
+    2. document.write(" ") => writes in the content area(whitespace) of the page
+    3. alert(" ") => popup warning when DOM reloads
