@@ -1,0 +1,7 @@
+Import -> meaning adding 
+
+therefore : import React from 'react'
+            issi liye it means adding node_modules files from react into the current file
+
+
+Export -> meaning giving access to all the other files and folders to access a particular function from a file 
