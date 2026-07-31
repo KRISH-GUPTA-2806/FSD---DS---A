@@ -15,4 +15,4 @@ Ways to Print in JS:
 *DATATYPES*    
 
 1.  Const : variable can only be declared once and if its not then it will show identifier error
-2. Var : there can be 
+2. Var : there can be multiple assignments from a single variable but it will always use the last declared variable's value
