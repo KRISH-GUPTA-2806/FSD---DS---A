@@ -9,3 +9,9 @@ Ways to Print in JS:
     1. console.log(" ") => writes in developer tool's console
     2. document.write(" ") => writes in the content area(whitespace) of the page
     3. alert(" ") => popup warning when DOM reloads
+
+
+
+*DATATYPES*    
+
+1.  Const : variable can only be declared once and if its not then it will show identifier error
