@@ -19,9 +19,18 @@
           let n = cars.length;
           let text = " ";
         for(let i=0;i<n;i=i+2){
-            document.write("   "+ cars[i]);
+            document.write("   "+ cars[i]+"<br>");
         }
         
+
+        //while loop
+        let len = 1;
+        let inp = prompt("enter a number:");
+        while(len<=10){
+
+            document.write(len+"x"+inp+ " = "+len*inp+"<br>");
+            len++;
+        }
 
 
 
