@@ -23,6 +23,19 @@
 
 
 
+        const car = ["mustang","150000$","american muscle car"];
+        const plane = ["boeing 770","1500000$","commercial plane"];
+        const helicopter = ["Apatche","150000$","kuch toh hai"];
+
+        let ch = prompt("enter mode");
+        let c2 = prompt("enter no of seats");
+        if(ch=="car"){
+            document.write(car);
+            const cost = (c2) => c2*car[1];
+            document.write(cost(c2));
+        }
+
+
     </script>
 
 
