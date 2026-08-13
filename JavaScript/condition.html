@@ -10,6 +10,19 @@
     <script>
 
         
+        //armstronmg number
+
+        let number = 153;
+        let result = 0;
+        const original = number;
+        while(Number!=0){
+           
+            result = result+(number%10)**3;
+            number = Math.floor(number/10);
+        }
+        if (result==original){
+            console.log("ARMSTRONG");
+        }
 
 
     </script>

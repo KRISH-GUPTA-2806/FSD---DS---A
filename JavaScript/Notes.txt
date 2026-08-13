@@ -9,7 +9,7 @@ Ways to Print in JS:
     1. console.log(" ") => writes in developer tool's console
     2. document.write(" ") => writes in the content area(whitespace) of the page
     3. alert(" ") => popup warning when DOM reloads
-
+    4. Inner HTML => works inside access modifier , it cant be used directly : document.getElementbyId/class name (eg: document.getElementById("demo").innerHTML=text;)
 
 
 *DATATYPES*    
